@@ -1,0 +1,1 @@
+This repo contains the report and Jupyter notebook for the project "Cashier or Self-Checkout? A cellular automata model to analyze grocery store checkout efficiency". This project was completed by Alaina Birney, Andrew Borah, Maya Griffith, and Marit Scott of the University of Vermont for the course Modeling Complex Systems. A full report for this project can be found
